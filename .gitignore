@@ -1,0 +1,60 @@
+# Python
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.pyl
+
+# Distributions / packaging
+.Python
+build/
+dist/
+venv/
+env/
+*.egg-info/
+.eggs/
+# eggs/
+sdist/
+wheel/
+*.mo
+*.pot
+*.log
+*.sqlite3
+*.db
+*.DS_Store
+.mypy_cache/
+.pytest_cache/
+.coverage
+htmlcov/
+.nox/
+.tox/
+
+# Virtual environment
+.venv/
+
+# Editor/IDE specific files
+.idea/                          # PyCharm/IntelliJ IDEA
+*.iml
+.vscode/                        # VS Code
+.vscode-test/
+.history/                       # VS Code Local History
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Miscellaneous
+*~
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+transcripts/
+storage/
